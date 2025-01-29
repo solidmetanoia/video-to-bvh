@@ -1,0 +1,7 @@
+output_data/*
+*.mp4
+*.avi
+*.mov
+*.webm
+configs/*
+*.pyc
